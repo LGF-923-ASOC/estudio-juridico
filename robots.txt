@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
  
-Sitemap: https://lgf-923-asoc.github.io/estudio-juridico/sitemap.xml
+Sitemap: https://lgf-asoc.github.io/estudio-juridico/sitemap.xml
+ 
